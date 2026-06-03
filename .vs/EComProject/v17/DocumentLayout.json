@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\EComProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|c:\\users\\dell\\source\\repos\\ecomproject\\ecomproject\\pllogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|solutionrelative:ecomproject\\pllogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|C:\\Users\\Dell\\source\\repos\\EComProject\\ecomproject\\pllogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|solutionrelative:ecomproject\\pllogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|c:\\users\\dell\\source\\repos\\ecomproject\\ecomproject\\plhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|solutionrelative:ecomproject\\plhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|C:\\Users\\Dell\\source\\repos\\EComProject\\ecomproject\\plui.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|solutionrelative:ecomproject\\plui.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|C:\\Users\\Dell\\source\\repos\\EComProject\\ecomproject\\plcart1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|solutionrelative:ecomproject\\plcart1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|C:\\Users\\Dell\\source\\repos\\EComProject\\ecomproject\\pltoys.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|solutionrelative:ecomproject\\pltoys.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|C:\\Users\\Dell\\source\\repos\\EComProject\\ecomproject\\plpexpand.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|solutionrelative:ecomproject\\plpexpand.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|C:\\Users\\Dell\\source\\repos\\EComProject\\ecomproject\\plpexpand.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|solutionrelative:ecomproject\\plpexpand.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|C:\\Users\\Dell\\source\\repos\\EComProject\\ecomproject\\plfurni.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|solutionrelative:ecomproject\\plfurni.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9951ABEB-D7EB-4630-9FD1-41D56BCBDB6A}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\Dell\\source\\repos\\EComProject\\dataaccesslayer\\dapexpand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9951ABEB-D7EB-4630-9FD1-41D56BCBDB6A}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dapexpand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15127D2A-858C-41CE-8E0E-6AF476C7A562}|BusinessLogicLayer\\BusinessLogicLayer.csproj|C:\\Users\\Dell\\source\\repos\\EComProject\\businesslogiclayer\\blexpand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15127D2A-858C-41CE-8E0E-6AF476C7A562}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\blexpand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|C:\\Users\\Dell\\source\\repos\\EComProject\\ecomproject\\pladdproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|solutionrelative:ecomproject\\pladdproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|C:\\Users\\Dell\\source\\repos\\EComProject\\ecomproject\\plsearch.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|solutionrelative:ecomproject\\plsearch.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|C:\\Users\\Dell\\source\\repos\\EComProject\\ecomproject\\plcloth.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|solutionrelative:ecomproject\\plcloth.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|C:\\Users\\Dell\\source\\repos\\EComProject\\ecomproject\\plshoes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|solutionrelative:ecomproject\\plshoes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|C:\\Users\\Dell\\source\\repos\\EComProject\\ecomproject\\plbooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39F38E8E-57CB-4D2B-A2BB-EF0935D87749}|EComProject\\EComProject.csproj|solutionrelative:ecomproject\\plbooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PLToys.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLToys.aspx",
+              "RelativeDocumentMoniker": "EComProject\\PLToys.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLToys.aspx",
+              "RelativeToolTip": "EComProject\\PLToys.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T11:43:06.646Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PLLogin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLLogin.aspx.cs",
+              "RelativeDocumentMoniker": "EComProject\\PLLogin.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLLogin.aspx.cs",
+              "RelativeToolTip": "EComProject\\PLLogin.aspx.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAqwJYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:21:45.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PLCart1.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLCart1.aspx",
+              "RelativeDocumentMoniker": "EComProject\\PLCart1.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLCart1.aspx",
+              "RelativeToolTip": "EComProject\\PLCart1.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T11:42:38.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PLAddProduct.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLAddProduct.aspx",
+              "RelativeDocumentMoniker": "EComProject\\PLAddProduct.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLAddProduct.aspx",
+              "RelativeToolTip": "EComProject\\PLAddProduct.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T10:53:54.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PLSearch.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLSearch.aspx",
+              "RelativeDocumentMoniker": "EComProject\\PLSearch.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLSearch.aspx",
+              "RelativeToolTip": "EComProject\\PLSearch.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T09:44:05.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PLLogin.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLLogin.aspx",
+              "RelativeDocumentMoniker": "EComProject\\PLLogin.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLLogin.aspx",
+              "RelativeToolTip": "EComProject\\PLLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T08:45:21.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PLUI.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLUI.aspx.cs",
+              "RelativeDocumentMoniker": "EComProject\\PLUI.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLUI.aspx.cs",
+              "RelativeToolTip": "EComProject\\PLUI.aspx.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAWwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:04:01.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PLHome.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLHome.aspx",
+              "RelativeDocumentMoniker": "EComProject\\PLHome.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLHome.aspx",
+              "RelativeToolTip": "EComProject\\PLHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T11:46:13.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PLShoes.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLShoes.aspx",
+              "RelativeDocumentMoniker": "EComProject\\PLShoes.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLShoes.aspx",
+              "RelativeToolTip": "EComProject\\PLShoes.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T09:42:31.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PLFurni.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLFurni.aspx",
+              "RelativeDocumentMoniker": "EComProject\\PLFurni.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLFurni.aspx",
+              "RelativeToolTip": "EComProject\\PLFurni.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T09:42:17.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PLCloth.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLCloth.aspx",
+              "RelativeDocumentMoniker": "EComProject\\PLCloth.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLCloth.aspx",
+              "RelativeToolTip": "EComProject\\PLCloth.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T09:42:07.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PLBooks.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLBooks.aspx",
+              "RelativeDocumentMoniker": "EComProject\\PLBooks.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLBooks.aspx",
+              "RelativeToolTip": "EComProject\\PLBooks.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T09:41:58.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BLExpand.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EComProject\\BusinessLogicLayer\\BLExpand.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\BLExpand.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EComProject\\BusinessLogicLayer\\BLExpand.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\BLExpand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:02:04.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DAPExpand.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EComProject\\DataAccessLayer\\DAPExpand.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DAPExpand.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EComProject\\DataAccessLayer\\DAPExpand.cs",
+              "RelativeToolTip": "DataAccessLayer\\DAPExpand.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:01:35.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PLPExpand.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLPExpand.aspx.cs",
+              "RelativeDocumentMoniker": "EComProject\\PLPExpand.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLPExpand.aspx.cs",
+              "RelativeToolTip": "EComProject\\PLPExpand.aspx.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:10:42.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PLPExpand.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLPExpand.aspx",
+              "RelativeDocumentMoniker": "EComProject\\PLPExpand.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\EComProject\\EComProject\\PLPExpand.aspx",
+              "RelativeToolTip": "EComProject\\PLPExpand.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T06:10:38.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

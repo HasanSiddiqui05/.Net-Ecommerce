@@ -1,0 +1,154 @@
+﻿:root {
+    --dark-grey: #e5e5e5;
+    --light-grey: #f8f9fa;
+    --sea-green: #7ae582;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Plus Jakarta Sans',sans-serif;
+    padding-left: 225px;
+}
+
+nav {
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0px;
+    background-color: var(--light-grey);
+    width: 225px;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.sub-title {
+    margin: 0 0 16px 10px;
+    font-size: 12px;
+}
+
+.side-links {
+    padding-right: 20px;
+}
+
+    .side-links a {
+        text-decoration: none;
+        color: black;
+    }
+
+.space {
+    margin-top: 40px;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-left: 0.8em;
+    margin-bottom: 0.5em;
+    padding: 0.8em 0.5em;
+}
+
+.active {
+    background-color: var(--sea-green);
+    border-radius: 8px;
+}
+
+li:hover,
+.delete-btn:hover,
+.edit-btn:hover,
+.save-btn:hover,
+.close-btn:hover {
+    translate: 0 -4px;
+}
+
+/* media queries for navbar */
+
+@media(width<=450px) {
+    .hide {
+        display: none;
+    }
+
+    nav {
+        width: 70px;
+    }
+
+    li {
+        width: 100%;
+        margin-left: 0.5em;
+        margin-right: 0.5em;
+    }
+
+    .active {
+        padding-left: 12px;
+    }
+}
+
+
+/* main-content */
+
+.main-content {
+    height: 100vh;
+    padding: 3em 0 1.5em 1.5em;
+}
+
+.heading {
+    display: flex;
+    align-items: center;
+    gap: 0.8em;
+}
+
+.main-body {
+    /* border:1px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2em;
+}
+
+table {
+    border-spacing: 0;
+    background-color: var(--sea-green);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    /* width:95%; */
+}
+
+td {
+    margin: 0;
+    padding: 0.5em 1em;
+}
+
+thead {
+    font-weight: 500;
+}
+
+tbody td {
+    background-color: white;
+}
+
+tbody td {
+    border-bottom: 1px solid black;
+}
+
+.accept-btn,
+.decline-btn {
+    border: none;
+    border-radius: 50%;
+    padding: 0.5em;
+    cursor: pointer;
+}
+
+.accept-btn {
+    background-color: rgb(197, 240, 197);
+}
+
+.decline-btn {
+    background-color: rgb(232, 191, 191);
+}

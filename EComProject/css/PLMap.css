@@ -1,0 +1,88 @@
+﻿:root {
+    --dark-grey: #e5e5e5;
+    --light-grey: #f8f9fa;
+    --sea-green: #7ae582;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Plus Jakarta Sans',sans-serif;
+    padding-left: 250px;
+}
+
+nav {
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0px;
+    background-color: var(--light-grey);
+    width: 225px;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.sub-title {
+    margin: 0 0 16px 10px;
+    font-size: 12px;
+}
+
+.side-links {
+    padding-right: 20px;
+}
+
+    .side-links a {
+        text-decoration: none;
+        color: black;
+    }
+
+.space {
+    margin-top: 40px;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-left: 0.8em;
+    margin-bottom: 0.5em;
+    padding: 0.8em 0.5em;
+}
+
+.page-title {
+    font-size: 20px;
+    margin: 24px 0;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+}
+
+#address {
+    border: none;
+    padding: 1em 2em;
+    background-color: var(--dark-grey);
+    font-family: 'Plus Jakarta Sans',sans-serif;
+    border-radius: 4px;
+}
+
+#search-btn {
+    border: none;
+    padding: 1em 2em;
+    font-family: 'Plus Jakarta Sans',sans-serif;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+}
+
+.active {
+    background-color: var(--sea-green);
+    border-radius: 8px;
+}

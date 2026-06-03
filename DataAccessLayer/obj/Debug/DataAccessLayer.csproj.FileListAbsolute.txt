@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\EComProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Dell\source\repos\EComProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Dell\source\repos\EComProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\EComProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\EComProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Dell\source\repos\EComProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Dell\source\repos\EComProject\DataAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\source\repos\EComProject\DataAccessLayer\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dell\source\repos\EComProject\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date

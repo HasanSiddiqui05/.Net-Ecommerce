@@ -1,0 +1,162 @@
+﻿:root {
+    --dark-grey: #e5e5e5;
+    --light-grey: #f8f9fa;
+    --sea-green: #7ae582;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Plus Jakarta Sans',sans-serif;
+    padding-left: 225px;
+}
+
+nav {
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0px;
+    background-color: var(--light-grey);
+    width: 225px;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.sub-title {
+    margin: 0 0 16px 10px;
+    font-size: 12px;
+}
+
+.side-links {
+    padding-right: 20px;
+}
+
+    .side-links a {
+        text-decoration: none;
+        color: black;
+    }
+
+.space {
+    margin-top: 40px;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-left: 0.8em;
+    margin-bottom: 0.5em;
+    padding: 0.8em 0.5em;
+}
+
+.active {
+    background-color: var(--sea-green);
+    border-radius: 8px;
+}
+
+li:hover,
+.save-btn:hover,
+.edit-btn:hover {
+    translate: 0 -4px;
+}
+
+/* media queries for navbar */
+
+@media(width<=450px) {
+    .hide {
+        display: none;
+    }
+
+    nav {
+        width: 70px;
+    }
+
+    li {
+        width: 100%;
+        margin-left: 0.5em;
+        margin-right: 0.5em;
+    }
+
+    .active {
+        padding-left: 12px;
+    }
+}
+
+
+/* main-content */
+
+.main-content {
+    height: 100vh;
+    padding: 3em 0 1.5em 1.5em;
+}
+
+.heading {
+    display: flex;
+    align-items: center;
+    gap: 0.8em;
+    margin-bottom: 50px;
+}
+
+.main-body {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8em;
+    margin-top: 1em;
+}
+
+.product-desc {
+    font-size: 0.8rem;
+    color: grey;
+}
+
+.product-content {
+    display: flex;
+    flex-direction: column;
+    padding: 0.8em 0.8em;
+    gap: 0.5em;
+    background: var(--light-grey);
+    border-radius: 10px;
+    width: 350px;
+}
+
+.product-card {
+    display: inline-flex;
+    gap: 0.8em;
+    width: 420px;
+    margin-bottom: 10px;
+}
+
+.product-img img {
+    height: 100%;
+    object-fit: cover;
+    border-radius: 14px;
+}
+
+.product-name {
+    font-weight: 700;
+}
+
+.product-img {
+    height: 100px;
+    background-color: white;
+}
+
+.product-info {
+    display: flex;
+    gap: 8em;
+}
+
+.price {
+    font-weight: 700;
+}
+
+.stock {
+    color: grey;
+    font-weight: 500;
+}

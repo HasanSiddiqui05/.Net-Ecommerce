@@ -1,0 +1,352 @@
+﻿:root {
+    --dark-grey: #e5e5e5;
+    --light-grey: #f8f9fa;
+    --sea-green: #7ae582;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, input, button, textarea {
+    font-family: 'Plus Jakarta Sans',sans-serif;
+}
+
+
+header {
+    border-bottom: 1px solid black;
+    background-color: white;
+    box-shadow: -4px 5px 4px 0px #a5a2a2;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+}
+
+nav {
+    height: 64px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+}
+
+.logo {
+    height: 100%;
+}
+
+    .logo img {
+        height: 100%;
+        object-fit: contain;
+        padding-top: 13px;
+    }
+
+.nav-links ul {
+    display: flex;
+    gap: 2em;
+}
+
+.nav-links li,
+.nav-links a {
+    text-decoration: none;
+    list-style: none;
+    color: black
+}
+
+nav input {
+    font-size: 1rem;
+    padding: 0.5em 4em 0.5em 0.5em;
+    border-radius: 40px;
+    border: 1px solid grey;
+}
+
+.search-bar {
+    position: relative;
+}
+
+    .search-bar button {
+        position: absolute;
+        right: 10px;
+        top: 8px;
+        background-color: white;
+        border: none;
+        cursor: pointer;
+    }
+
+.account-link,
+.cart-link {
+    display: flex;
+    align-items: center;
+}
+
+.left-links {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    /* min-width: 120px; */
+    background-color: var(--light-grey);
+    box-shadow: -4px 5px 4px 0px #a5a2a2;
+}
+
+.dropdown-row {
+    display: flex;
+}
+
+    .dropdown-row li {
+        width: 120px;
+    }
+
+    .dropdown-row a:nth-child(1) {
+        border-right: 1px solid black;
+    }
+
+.dropdown-content li {
+    padding: 1em 1em;
+    border-bottom: 1px solid black;
+}
+
+    .dropdown-content li:hover {
+        transition: all 0.1s ease-in;
+        background-color: var(--sea-green);
+        translate: 4px -4px;
+    }
+
+.dropdown-menu:hover .dropdown-content {
+    transition: all 0.1s ease-in;
+    display: block;
+}
+
+section {
+    margin-top: 80px;
+}
+
+.wrapper {
+    padding: 4em;
+    display: flex;
+    gap: 50px;
+    background-color: var(--light-grey);
+}
+
+
+.product-details {
+    margin-right: 100px;
+    padding-left: 10px;
+}
+
+    .product-details h1 {
+        margin-top: 40px;
+        margin-bottom: 20px;
+    }
+
+    .product-details .product-desc {
+        color: grey;
+    }
+
+.image-section {
+    height: 400px;
+    margin-left: 100px;
+}
+
+    .image-section img {
+        height: 100%;
+        border-radius: 40px;
+        object-fit: contain;
+    }
+
+.product-price {
+    margin: 20px 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.addtocart-btn button {
+    font-family: 'Plus Jakarta Sans',sans-serif;
+    font-weight: 500;
+    background-color: var(--sea-green);
+    color: black;
+    /* border: 2px solid black; */
+    border: none;
+    padding: 0.5em 1em;
+    border-radius: 40px;
+    margin-top: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.1s ease-in;
+}
+
+    .addtocart-btn button:hover {
+        background-color: white;
+        color: var(--sea-green);
+        border: 1px solid var(--sea-green);
+    }
+
+.section-title {
+    border-bottom: 1px solid black;
+    margin: 10px 0;
+    padding-bottom: 10px;
+}
+
+.view-reviews {
+    /* border:1px solid red; */
+    display: flex;
+    gap: 20px;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    flex-shrink: 0;
+    /* overflow-x:scroll; */
+    padding-bottom: 20px;
+}
+
+.review-card {
+    background-color: var(--light-grey);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    width: 400px;
+    flex-shrink: 0;
+    /* height:200px; */
+    /* width:600px; */
+}
+
+.review-text {
+    padding: 10px 10px;
+    font-size: 16px;
+}
+
+.review-desc {
+    font-size: 20px;
+}
+
+.add-review {
+    margin-top: 40px;
+}
+
+.add-review-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 40px;
+}
+
+.review-input textarea {
+    resize: none;
+    background-color: var(--dark-grey);
+}
+
+.submit-btn {
+    padding: 1em 2em;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.1s ease-in;
+}
+
+    .submit-btn:hover {
+        background-color: white;
+        color: black;
+        border: 1px solid black;
+    }
+
+.rate {
+    float: left;
+    height: 46px;
+    padding: 0 10px;
+}
+
+    .rate:not(:checked) > input {
+        position: absolute;
+        top: -9999px;
+    }
+
+    .rate:not(:checked) > label {
+        float: right;
+        width: 1em;
+        overflow: hidden;
+        white-space: nowrap;
+        cursor: pointer;
+        font-size: 30px;
+        color: #ccc;
+    }
+
+        .rate:not(:checked) > label:before {
+            content: '★ ';
+        }
+
+    .rate > input:checked ~ label {
+        color: #ffc700;
+    }
+
+    .rate:not(:checked) > label:hover,
+    .rate:not(:checked) > label:hover ~ label {
+        color: #deb217;
+    }
+
+    .rate > input:checked + label:hover,
+    .rate > input:checked + label:hover ~ label,
+    .rate > input:checked ~ label:hover,
+    .rate > input:checked ~ label:hover ~ label,
+    .rate > label:hover ~ input:checked ~ label {
+        color: #c59b08;
+    }
+/* media queries */
+
+/* Desktop container utility class: */
+.contain {
+    max-width: 1536px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+/* 2xl */
+@media (max-width: 1536px) {
+    .contain {
+        max-width: 1280px;
+    }
+}
+
+/* xl */
+@media (max-width: 1280px) {
+    .contain {
+        max-width: 1024px;
+    }
+}
+
+/* lg */
+@media (max-width: 1024px) {
+    .contain {
+        max-width: 768px;
+    }
+}
+
+/* md */
+@media (max-width: 768px) {
+    .contain {
+        max-width: 640px;
+    }
+}
+
+/* sm */
+@media (max-width: 640px) {
+    .contain {
+        max-width: 475px;
+    }
+}
+
+/* xs */
+@media (max-width: 475px) {
+    .contain {
+        width: 100%;
+    }
+}
