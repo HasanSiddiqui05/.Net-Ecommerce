@@ -3,19 +3,6 @@
 A full-featured e-commerce web application built with **C# (ASP.NET)** following a **Layered / N-Tier Architecture**. 
 ---
 
-## 👥 Team
-
-| Name | Enrollment # |
-|---|---|
-| Muhammad Uzair Naseem | 02-131222-045 |
-| Hasan Shahab | 02-131222-059 |
-| Abdullah Hussain | 02-131222-086 |
-
-**Course:** SEL 221 – Software Design and Architecture  
-**Class:** BSE – 4A (Spring 2024)  
-**Department:** Software Engineering, Bahria University (Karachi Campus)
-
----
 
 ## 📌 Overview
 
@@ -49,22 +36,6 @@ The application follows a **3-Layer / N-Tier Architecture**:
 │    Data Access Layer      │  ← Database operations, data persistence
 └──────────────────────────┘
 ```
-
----
-
-## 🎨 Design Pattern
-
-The checkout flow uses the **Chain of Responsibility** pattern, processing each step (cart validation → address validation → payment) through a chain of handlers.
-
-```csharp
-public interface ICheckoutHandler
-{
-    void HandleRequest(CheckoutContext context);
-    ICheckoutHandler SetNext(ICheckoutHandler nextHandler);
-}
-```
-
-Handler chain: `CartHandler` → `AddressHandler` → `PaymentHandler`
 
 ---
 
@@ -109,15 +80,3 @@ Handler chain: `CartHandler` → `AddressHandler` → `PaymentHandler`
    dotnet run
    ```
 
----
-
-## 📁 Project Files
-
-Full project source code is available on Google Drive:  
-🔗 [Project Drive Link](https://drive.google.com/drive/folders/1d2A7b1pzHddQsxPpio3KaTCRSbCqyF4g?usp=drive_link)
-
----
-
-## 📄 License
-
-This project was created for academic purposes at Bahria University.
