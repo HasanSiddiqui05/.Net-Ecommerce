@@ -1,7 +1,6 @@
 # 🛒 E-Commerce Web Application
 
-A full-featured e-commerce web application built with **C# (ASP.NET)** following a **Layered / N-Tier Architecture**. Developed as a course project for **SEL 221 – Software Design and Architecture** at Bahria University, Karachi Campus.
-
+A full-featured e-commerce web application built with **C# (ASP.NET)** following a **Layered / N-Tier Architecture**. 
 ---
 
 ## 👥 Team
